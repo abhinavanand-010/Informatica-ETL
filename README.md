@@ -3,6 +3,11 @@
 ## Overview
 
 This **Informatica ETL** project demonstrates the extraction, transformation and loading of data from multiple sources, transforms it using complex business logic, and loads it into a centralized data target. All the Database Principles are applied to ensure the cleaning and normalization of the data.
+
+## Project On Hostel Management System
+
+This project automates data extraction, transformation, and loading (ETL) for a Hostel Management System, organizing student, room, and fee data for streamlined management. The transformed data supports business intelligence by enabling detailed reports and insights into occupancy rates, fee collection, and resource allocation.
+
 ## Project Description
 
 The project utilizes **Informatica PowerCenter** to design workflows that connect to diverse data sources, such as CSV files, relational databases, etc. These workflows handle the following key operations:
